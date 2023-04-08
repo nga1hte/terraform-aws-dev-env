@@ -1,6 +1,6 @@
 # Development environment in VSCode using Terraform and AWS
 
-![dev](https://github.com/nga1hte/terraform-aws-dev-env/blob/master/dev.png)
+![dev](https://ngaih.tech/images/terraform/dev.png)
 
 ## AWS services provisioned
 - VPC
